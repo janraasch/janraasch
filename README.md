@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 - https://www.janraasch.com 🔭 - [jan@janraasch.com](mailto:jan@janraasch.com) 📫 
 
 <!--
 **janraasch/janraasch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
